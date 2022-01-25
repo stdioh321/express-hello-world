@@ -9,6 +9,13 @@ $ npm install
 ```
 $ npm run start
 ```
+![terminal](docs/snap01.png)
+<hr />
+Open your browser at:
+
+**http://localhost:3000**
+
+![browser](docs/snap02.png)
 
 ## Build Docker image
 
